@@ -15,10 +15,10 @@ To set up the project locally, follow these Bash commands:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Adityabandaru18/Budgetbuddy-navigator.git
 
 # Navigate to the project directory
-cd expense-tracker
+cd Budgetbuddy-navigator
 
 # Install dependencies
 npm install

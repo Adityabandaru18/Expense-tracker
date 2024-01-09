@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+}
+body{
+
+    background-color: rgb(247,245,247);
+}
+
+.main{
+    width: 450px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    margin: 0px auto;
+    margin-top: 20px;
+    padding: 15px;
+
+}
+.main h2{
+    text-align: center;
+}
+.balance{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.label{
+    width: 400px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(255,255,255);
+    justify-content: space-evenly;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin: 0px auto;
+    margin-top: 10px;
+    
+}
+.history{
+    margin: 10px;
+    
+    display: flex;
+    flex-direction: column;
+}
+.transactions{
+    margin: 10px;
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.form{
+    
+    display: flex;
+    flex-direction: column;
+    
+}
+.form input{
+    background-color: rgb(255,255,255);
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: none;
+    
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    
+}
+button{
+    z-index: 100;
+}
+.final{
+    background-color: rgb(255,255,255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+.final h3{
+    margin-left: 15px;
+}

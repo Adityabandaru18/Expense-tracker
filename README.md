@@ -5,7 +5,7 @@ This Git repository houses a web application developed with React.js for expense
 ### Features
 
 - Transaction management
-- Income and expense categorization
+- Income and expense tracker
 - Overview of the overall balance
 
 

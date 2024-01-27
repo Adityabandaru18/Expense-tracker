@@ -1,4 +1,4 @@
-# BudgetTracker
+# Expense Tracker
 
 This Git repository houses a web application developed with React.js for expense tracking. The project incorporates vanilla CSS and Material-UI in parts to ensure a sleek and responsive user interface.
 

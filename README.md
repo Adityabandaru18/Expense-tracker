@@ -14,14 +14,7 @@ This Git repository houses a web application developed with React.js for expense
 To set up the project locally, follow these Bash commands:
 
 ```bash
-# Clone the repository
 git clone https://github.com/Adityabandaru18/Budgetbuddy-navigator.git
-
-# Navigate to the project directory
 cd Budgetbuddy-navigator
-
-# Install dependencies
 npm install
-
-# Start the development server
 npm start
